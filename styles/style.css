@@ -31,3 +31,62 @@ body{
 .header-des{
     margin-top: 50px;
 }
+.main-section{
+  margin-left: 900px;  
+  padding-bottom: 300px;
+  padding-top: 200px;
+}
+.main-title{
+    color: #151414;
+    font-size: 40px;
+}
+.main-des{
+    color: #444343;
+    font-size: 16px;
+}
+.main-list{
+  color: #444343;  
+  font-size: 16px;
+}
+main {
+    background-image: url('../images/person.png');
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.my-plans-title{
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+}
+.plans-items{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+.quote{
+    background-image: url('../images/watch.png');
+    margin-left: 100px;
+    margin-right: 100px;
+    background-repeat: no-repeat;
+    padding-left: 100px;
+    background-position: center;
+    padding-bottom: 100px;
+    
+}
+.quote-title{
+    color: #FFFFFF;
+    font-size: 40px;
+   padding-top: 100px;
+  
+   
+}
+.call-me-btn{
+    background-color: #FFFFFF;
+    color: #F15B22;
+    width: 160px;
+    height: 64px;
+    border-radius: 0px;
+    
+    text-align: center;
+    
+}
