@@ -90,3 +90,34 @@ main {
     text-align: center;
     
 }
+footer{
+    display: flex;
+    background-color: #151414;
+    gap: 300px;
+    padding: 100px;
+    
+}
+.footer-column-title{
+    color: #F8F8F8;
+    font-size: 45px;
+  
+}
+.footer-column-des,.column-address,.column-phone{
+    color: #F8F8F8;
+  font-size: 16px;
+}
+.email{
+    background-color: #151414;
+    color: #F8F8F8;
+    width: 325px;
+    height: 64px;
+    border-radius: 2px;
+    border-color: #F8F8F8;
+}
+.subscribe{
+    width: 170px;
+    height: 64px;
+    background-color: #FFFFFF;
+    color: #F15B22;
+    margin-top: 10px;
+}
